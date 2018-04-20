@@ -7,6 +7,7 @@ Date: 21 April 2018<br/>
 Version: v0.0.1<br/>
 
 ***
+![QuickDai](/assets/quickdai.jpg)
 
 
 #### Kovan Test Net - Smart Contract Address :<br/>
