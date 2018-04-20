@@ -1,7 +1,7 @@
 pragma solidity ^0.4.21;
 
 // Author: Booyoun Kim
-// Date: 21 April 2019
+// Date: 21 April 2018
 // Version: QuickDai v0.0.1
 
 import "./AbstractDaiToken.sol";
