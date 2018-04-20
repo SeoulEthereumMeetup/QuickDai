@@ -1,7 +1,6 @@
 pragma solidity ^0.4.21;
 
 interface DaiToken {
-	// function balanceOf(address _owner) constant returns (uint256 balance);
     function totalSupply() constant returns (uint256 supply);
     function balanceOf(address _owner) constant returns (uint256 balance);
     function transfer(address _to, uint256 _value) returns (bool success);
